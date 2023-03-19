@@ -2,11 +2,13 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * main - Print a combination of random numbers
- * return: 0 (success)
+ * main - Entry point
+ * Return: 0 (success)
  */
+
 int main(void)
 {
+
 	int x, y;
 
 	for (x = '0'; x < '9'; x++)
